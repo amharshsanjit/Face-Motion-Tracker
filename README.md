@@ -23,16 +23,6 @@ A real-time computer vision project using **OpenCV** that detects face movement 
 
 ---
 
-## 📂 Project Structure
-
-```
-face-direction-tracker/
-│── main.py
-│── README.md
-```
-
----
-
 ## 📦 Installation
 
 1. Clone the repository:
@@ -93,23 +83,6 @@ Direction: RIGHT ➡️
 - 🎮 Integrate with games (face-controlled input)  
 - 📊 Add movement sensitivity controls  
 
----
-
-## 🙌 Contribution
-
-Feel free to fork this repo and improve it!
-
-```bash
-git checkout -b feature-name
-git commit -m "Added new feature"
-git push origin feature-name
-```
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
 
 ---
 
