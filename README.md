@@ -69,7 +69,7 @@ Press **`q`** to exit.
 ## 📸 Output Preview
 
 ```
-[ FACE DETECTED ]
+![ face_dection_output ]
 Direction: RIGHT ➡️
 (Arrow animating in real-time)
 ```
