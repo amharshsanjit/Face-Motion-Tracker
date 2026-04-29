@@ -66,15 +66,6 @@ Press **`q`** to exit.
 
 ---
 
-## 📸 Output Preview
-
-```
-![](face_dection_output.png)
-Direction: RIGHT ➡️
-(Arrow animating in real-time)
-```
-
----
 
 ## ⚙️ Future Improvements
 
